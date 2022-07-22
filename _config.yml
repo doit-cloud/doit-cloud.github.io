@@ -107,7 +107,6 @@ author:
   name             : "ICRAFT Cloud Team"
   avatar           : "https://www.icraft21.com/img/logo-gray.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "아이크래프트 클라우드팀의 미약한 기술블로그"
-  location         : "8, Teheran-ro 44-gil\nGangnam-gu\nSeoul\nRepublic of Korea"
   email            :
   links:
     - label: "ICraft Website"
@@ -116,9 +115,7 @@ author:
     - label: "Cloud Team Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cloudmsp@icraft21.com"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/doit-cloud"
+  location         : "8, Teheran-ro 44-gil<br/>Gangnam-gu, Seoul<br/>Republic of Korea"
 
 # Site Footer
 footer:
