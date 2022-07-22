@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "ICRAFT Cloud Team"
+title                    : "iCRAFT Do-IT"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Cloud Dev Team"
-description              : "아이크래프트 클라우드팀의 미약한 기술블로그"
+name                     : "Cloud Team Technical Blog"
+description              : "iCraft Cloud Team Technical Blog"
 url                      : "https://doit-cloud.github.io/"
 baseurl                  :
 repository               :
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "ICRAFT Cloud Team"
+  name             : "iCRAFT Cloud Team"
 #  avatar           : "https://www.icraft21.com/img/logo-gray.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "아이크래프트 클라우드팀의 미약한 기술블로그"
-  location         : "8, Teheran-ro 44-gil<br/>Gangnam-gu, Seoul<br/>Republic of Korea<br/>"
+  bio              : "iCraft Cloud Team Technical Blog"
+  location         : "8, Teheran-ro 44-gil<br/>Gangnam-gu, Seoul<br/>Republic of Korea?"
   email            :
   links:
     - label: "ICraft Website"
