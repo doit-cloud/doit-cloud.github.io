@@ -108,49 +108,27 @@ author:
   avatar           : "https://www.icraft21.com/img/logo-gray.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "아이크래프트 클라우드팀의 미약한 기술블로그"
   location         : "South Korea"
-  email            :
+  email            : "cloudmsp@icraft21.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cloudmsp@icraft21.com"
-      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
        url: "https://www.icraft21.com/index.html"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/doit-cloud"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-      # url:
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.icraft21.com/index.html"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/coli-bear"
-#    - label: "GitLab"
-#      icon: "fab fa-fw fa-gitlab"
-      # url:
-#    - label: "Bitbucket"
-#      icon: "fab fa-fw fa-bitbucket"
-      # url:
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/doit-cloud"
 
 
 # Reading Files
