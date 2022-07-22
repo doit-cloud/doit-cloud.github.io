@@ -25,7 +25,7 @@ url                      : "https://doit-cloud.github.io/"
 baseurl                  :
 repository               :
 teaser                   : "/assets/images/teaser.png"
-logo                     : "/assets/images/logo.jpeg"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -107,6 +107,7 @@ author:
   name             : "ICRAFT Cloud Team"
   avatar           : "https://www.icraft21.com/img/logo-gray.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "아이크래프트 클라우드팀의 미약한 기술블로그"
+  location         : "<span style='text-align: right;'>8, Teheran-ro 44-gil<br/>Gangnam-gu, Seoul<br/>Republic of Korea</span>"
   email            :
   links:
     - label: "ICraft Website"
@@ -115,7 +116,6 @@ author:
     - label: "Cloud Team Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cloudmsp@icraft21.com"
-  location         : "<span style='text-align: right;'>8, Teheran-ro 44-gil<br/>Gangnam-gu, Seoul<br/>Republic of Korea</span>"
 
 # Site Footer
 footer:
