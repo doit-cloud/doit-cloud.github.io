@@ -107,7 +107,7 @@ author:
   name             : "ICRAFT Cloud Team"
   avatar           : "https://www.icraft21.com/img/logo-gray.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "아이크래프트 클라우드팀의 미약한 기술블로그"
-  location         : "<span style='text-align: right;'>8, Teheran-ro 44-gil<br/>Gangnam-gu, Seoul<br/>Republic of Korea</span>"
+  location         : "<span style=\"{text-align: right;}\">8, Teheran-ro 44-gil<br/>Gangnam-gu, Seoul<br/>Republic of Korea</span>"
   email            :
   links:
     - label: "ICraft Website"
