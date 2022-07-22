@@ -107,31 +107,31 @@ author:
   name             : "ICRAFT Cloud Team"
   avatar           : "https://www.icraft21.com/img/logo-gray.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "아이크래프트 클라우드팀의 미약한 기술블로그"
-  location         : "South Korea"
+  location         : "8, Teheran-ro 44-gil\nGangnam-gu\nSeoul\nRepublic of Korea"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cloudmsp@icraft21.com"
-    - label: "Website"
+    - label: "ICraft Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.icraft21.com/index.html"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/doit-cloud"
+    - label: "Cloud Team Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cloudmsp@icraft21.com"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/doit-cloud"
 
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cloudmsp@icraft21.com"
-    - label: "Website"
+    - label: "ICraft Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.icraft21.com/index.html"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/doit-cloud"
+    - label: "Cloud Team Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cloudmsp@icraft21.com"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/doit-cloud"
 
 # Reading Files
 include:
