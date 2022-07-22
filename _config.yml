@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "CBlog"
+title                    : "ICRAFT Cloud Team"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "CB"
-description              : "돈만은 백수가 꿈"
-url                      : "https://coli-bear.github.io/blog/"
+name                     : "Cloud Dev Team"
+description              : "아이크래프트 클라우드팀의 미약한 기술블로그"
+url                      : "https://doit-cloud.github.io/"
 baseurl                  :
 repository               :
 teaser                   : "/assets/images/teaser.png"
@@ -39,7 +39,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "CB"
+  name             : "ICRAFT Cloud Team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "아이크래프트 클라우드팀의 미약한 기술블로그"
   location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:iln1027@kakao.com"
+      url: "mailto:cloudmsp@icraft21.com"
       # url: "mailto:your.name@email.com"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/coli-bear"
+      url: "https://github.com/doit-cloud"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
