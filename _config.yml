@@ -115,7 +115,7 @@ author:
     - label: "Cloud Team Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cloudmsp@icraft21.com"
-  location         : "8, Teheran-ro 44-gil<br/>Gangnam-gu, Seoul<br/>Republic of Korea"
+  location         : "<span style='text-align: right;'>8, Teheran-ro 44-gil<br/>Gangnam-gu, Seoul<br/>Republic of Korea</span>"
 
 # Site Footer
 footer:
