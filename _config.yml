@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "do`i-Technical "
+title                    : # "do`i-Technical "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cloud Team Technical Blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "iCRAFT Cloud Team"
+  name             : "Cloud Team"
 #  avatar           : "https://www.icraft21.com/img/logo-gray.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "iCraft Cloud Team Technical Blog"
+  bio              : "do`i-Technical Blog"
   location         : "8, Teheran-ro 44-gil<br/>Gangnam-gu, Seoul<br/>Republic of Korea?"
   email            :
   links:
