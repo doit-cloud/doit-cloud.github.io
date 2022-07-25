@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "main"
-    url: https://doit-cloud.github.io/
+    url: https://doit-cloud.github.io
   - title: "about"
     url: /about/
   - title: "categories"
