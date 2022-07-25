@@ -110,10 +110,10 @@ author:
   location         : "8, Teheran-ro 44-gil<br/>Gangnam-gu, Seoul<br/>Republic of Korea?"
   email            :
   links:
-    - label: "ICraft Website"
+    - label: "ICRAFT WEBSITE"
       icon: "fas fa-fw fa-link"
       url: "https://www.icraft21.com/index.html"
-    - label: "Cloud Team Email"
+    - label: "CLOUD TEAM MAIL"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cloudmsp@icraft21.com"
 
