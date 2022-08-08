@@ -4,8 +4,8 @@ main:
     url: https://doit-cloud.github.io
   - title: "categories"
     url: /categories/
-  - title: "tags"
-    url: /tags/
+#  - title: "tags"
+#    url: /tags/
   - title: "dev"
     url: /categories/#dev/
   - title: "devops"
