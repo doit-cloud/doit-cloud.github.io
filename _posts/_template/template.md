@@ -1,6 +1,5 @@
 ---
 title: "template"
-excerpt: "template"
 toc: true
 toc_sticky: true
 categories:
@@ -29,10 +28,6 @@ tags:
 ## title
 
 - 제목
-
-## excerpt
-
-- 발췌
 
 ## toc
 
