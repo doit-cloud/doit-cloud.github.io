@@ -2,11 +2,9 @@
 title: "Webpack Babel!!!"
 toc: true
 toc_sticky: true
-categories: FrontEnd
-author: 김재현
+categories: 
 
 - dev
-
 
 tags:
 
