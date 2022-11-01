@@ -339,14 +339,14 @@ export function useMutaion<
 
 ```tsx
 useMutation<AxiosResponse, AxiosError, bodyType, callbackType>(
-	['keyName'], //mutationKey
-	(bodyData: bodyType): Promise<any> => API() //mutationFn
-	{
-			onMutate: bodyData => something(bodyData),   //callbackType
+['keyName'], //mutationKey
+  (bodyData: bodyType): Promise<any> => API() //mutationFn
+    {
+        onMutate: bodyData => something(bodyData),   //callbackType
 
-			onSuccess: (res, bodyData, callbackType) => {},
-		  onError: (err, bodyData, callbackType) => {},
-		  onSettled: (res, err, bodyData, callbackType) => {},
+        onSuccess: (res, bodyData, callbackType) => {},
+        onError: (err, bodyData, callbackType) => {},
+        onSettled: (res, err, bodyData, callbackType) => {},
 	}, //options
 ),
 ```
