@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 라이징스타 2021-React Eco System"
-toc: true
-toc_sticky: true
+toc: true 
+toc_sticky: true 
 categories:
 
 - dev
@@ -10,7 +10,7 @@ tags:
 
 - javascript
 
-안녕하세요. 2022년 JavaScript RisingStar 2022를 정리하기 전에 먼저 작년의  JavaScript RisingStart 2021을 먼저 소개하겠습니다.
+안녕하세요. 2022년 JavaScript RisingStar 2022를 정리하기 전에 먼저 작년의 JavaScript RisingStart 2021을 먼저 소개하겠습니다.
 
 이 포스트에서는 React Eco System의 top10 에 대해서 순위순으로 리서치 하였습니다.
 
@@ -18,12 +18,13 @@ tags:
 
 ---
 
-#Top 1
+# Top 1
 
 ## Next.js
+
 ![img2]({{site.url}}/assets/images/csb/javascript_risingStart/rising_1_2.png)
 
-*Next.js는 하이브리드 정적 및 서버 렌더링, TypeScript 지원, 스마트 번들링, 경로 미리 가져오기 등 프로덕션에 필요한 모든 기능을 통해 최고의 개발자 경험을 제공합니다. 구성이 필요하지 않습니다!*
+*Next.js는 하이브리드 정적 및 서버 렌더링, TypeScript 지원, 스마트 번들링, 경로 미리 가져오기 등 프로덕션에 필요한 모든 기능을 통해 최고의 개발자 경험을 제공합니다. 구성이 필요하지 않습니다!*
 
 ### Next.js 장점
 
@@ -37,38 +38,37 @@ tags:
 
 + 내장 CSS 및 Sass 지원, CSS-in-JS 라이브러리 지원합니다.
 
-
 ### Nest.js 단점
 
 - 서버 부하가 CSR에 비해서 많은 편입니다.
 
 - 페이지 이동할때마다 새로운 html 파일을 불러오는 방식때문에 사용자는 화면이 깜빡거린다고 느낄 수 있습니다.
 
-
-#TOP2
+# TOP2
 
 ## Ant Design
+
 ![img3]({{site.url}}/assets/images/csb/javascript_risingStart/rising_1_5.png)<br>
-*엔터프라이즈급 제품을 위한 디자인 시스템입니다. 효율적이고 즐거운 업무 경험을 만드십시오.*
+*엔터프라이즈급 제품을 위한 디자인 시스템입니다. 효율적이고 즐거운 업무 경험을 만드십시오.*
 
 알리바바 그룹(중국) 에서 개발한 UI 프레임워크입니다.
 
-### Ant Design  장점
+### Ant Design 장점
 
 + 쉬운 레이아웃 잡기 <br> 공식 홈페이지에서는 3분만에 레이아웃을 잡을 수 있다고 설명합니다..
 
 + 직관적이고 깔끔한 UX 컴포넌트 지원합니다.
 
-
 # TOP3
 
 ## MUI, Meterial UI
+
 ![img4]({{site.url}}/assets/images/csb/javascript_risingStart/rising_1_6.png)<br>
 
+*MUI는 새로운 기능을 더 빨리 제공하는 데 도움이 되는 포괄적인 UI 도구 모음을 제공합니다. 완전히 로드된 구성 요소 라이브러리인 Material UI로 시작하거나 자체 설계 시스템을 생산 준비 구성 요소로
+가져오세요!*
 
-*MUI는 새로운 기능을 더 빨리 제공하는 데 도움이 되는 포괄적인 UI 도구 모음을 제공합니다. 완전히 로드된 구성 요소 라이브러리인 Material UI로 시작하거나 자체 설계 시스템을 생산 준비 구성 요소로 가져오세요!*
-
-### MUI  장점
+### MUI 장점
 
 + 쉬운 사용법, 다양한 아이콘을 제공합니다.
 
@@ -82,14 +82,13 @@ tags:
 
 - Ant Design 과 비교하여 비교적 학습 시간이 걸립니다.
 
-
 # Top4.
 
 ## Remix
 
 ![img5]({{site.url}}/assets/images/csb/javascript_risingStart/rising_1_7.png)
 
-*웹 표준 및 최신 웹 앱 UX 에 중점을 두고 더 나은 웹사이트를 구축할 수 있습니다 !*
+*웹 표준 및 최신 웹 앱 UX 에 중점을 두고 더 나은 웹사이트를 구축할 수 있습니다 !*
 
 ### Remix 장점
 
@@ -101,7 +100,7 @@ tags:
 
 + 서버에서 데이터를 병렬로 로드하고 완전한 HTML 문서를 보내는 방식으로 훨씬 더 빠르고 버벅거림이 없습니다.
 
-+ Nested Router를 사용하면 Remix가 앱 을 최대한 빠르게 만들 수 있습니다.
++ Nested Router를 사용하면 Remix가 앱 을 최대한 빠르게 만들 수 있습니다.
 
 + Remix는 사용자가 링크를 클릭하기 전에 모든 것을 병렬로 미리 가져올 수 있습니다.
 
@@ -111,23 +110,23 @@ tags:
 
 - reference 가 mui, ant design 에 비하여 상대적으로 적습니다.
 
-
 # Top5
+
 ## React-use
 
 Collection of essential React Hooks
 
-필수 react hook 모음입니다. 
+필수 react hook 모음입니다.
 
 [https://streamich.github.io/react-use/?path=/story/components-usekey--demo](https://streamich.github.io/react-use/?path=/story/components-usekey--demo)
 
-
 # Top6
+
 # Chakra UI
 
 ![img6]({{site.url}}/assets/images/csb/javascript_risingStart/rising_1_8.png)
 
-빠른 속도로 접근 가능한 React 앱 만들기, Chakra UI는 React 애플리케이션을 빌드하는 데 필요한 빌딩 블록을 제공하는 간단하고 모듈식이며 액세스 가능한 구성 요소 라이브러리입니다.
+빠른 속도로 접근 가능한 React 앱 만들기, Chakra UI는 React 애플리케이션을 빌드하는 데 필요한 빌딩 블록을 제공하는 간단하고 모듈식이며 액세스 가능한 구성 요소 라이브러리입니다.
 
 ### Chakra UI 장점
 
@@ -139,7 +138,6 @@ Collection of essential React Hooks
 
 + light, dark UI 지원합니다.
 
-
 ### Chakra UI 단점
 
 - 공식 홈페이지에 컴포넌트별 예시가 적은 편입니다.
@@ -148,17 +146,18 @@ Collection of essential React Hooks
 
 - reference 가 mui, ant design 에 비하여 상대적으로 적습니다.
 
-
 # Top7
+
 ## Headerless UI
+
 ![img7]({{site.url}}/assets/images/csb/javascript_risingStart/rising_1_9.png)
 
 Tailwind CSS와 아름답게 통합되도록 설계된 완전히 스타일이 지정되지 않고 완전히 액세스 가능한 UI 구성 요소입니다.
 
 Tainlwind css로 구현된 UI Component 모음입니다. 몇가지의 UI 컴포넌트를 지원합니다.
 
-
 # Top8
+
 ## React Hook Form
 
 ![img8]({{site.url}}/assets/images/csb/javascript_risingStart/rising_1_12.png)
@@ -177,13 +176,13 @@ Tainlwind css로 구현된 UI Component 모음입니다. 몇가지의 UI 컴포�
 
 + validation, error 를 처리해줍니다.
 
-
 # Top9
+
 ## React Query
 
 ![img9]({{site.url}}/assets/images/csb/javascript_risingStart/rising_1_10.png)
 
-****React를 위한 강력하고 성능 좋은 데이터 동기화,****
+****React를 위한 강력하고 성능 좋은 데이터 동기화,****
 
 "전역 상태"를 건드리지 않고 React 및 React Native 애플리케이션에서 데이터를 가져오고, 캐시하고, 업데이트합니다.
 
@@ -203,7 +202,9 @@ Tainlwind css로 구현된 UI Component 모음입니다. 몇가지의 UI 컴포�
 - redux-saga 에 비해 커뮤니티 규모가 작아 레퍼런스가 상대적으 부족합니다.
 
 ---
+
 # Top10
+
 ## Docusaurus
 
 ![img10]({{site.url}}/assets/images/csb/javascript_risingStart/rising_1_11.png)
@@ -212,7 +213,7 @@ Tainlwind css로 구현된 UI Component 모음입니다. 몇가지의 UI 컴포�
 
 ### Docusaurus 장점
 
-+ MarkDown, MDX  형식으로 문서와 블로그 포스트를 쉽게 작성하고 웹 사이트로 퍼블리싱 가능
++ MarkDown, MDX 형식으로 문서와 블로그 포스트를 쉽게 작성하고 웹 사이트로 퍼블리싱 가능
 
 + 리액트 기반, swizzling 으로 리액트 컴포넌트를 쉽게 커스터마이징 가능
 
