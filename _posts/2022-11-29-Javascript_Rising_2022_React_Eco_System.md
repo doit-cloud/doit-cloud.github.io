@@ -10,13 +10,13 @@ tags:
 
 - javascript
 
----
-
 안녕하세요. 2022년 JavaScript RisingStar 2022를 정리하기 전에 먼저 작년의  JavaScript RisingStart 2021을 먼저 소개하겠습니다.
 
 이 포스트에서는 React Eco System의 top10 에 대해서 순위순으로 리서치 하였습니다.
 
 ![img1]({{site.url}}/assets/images/csb/javascript_risingStart/rising_1_1.png)
+
+---
 
 #Top 1
 
@@ -44,7 +44,6 @@ tags:
 
 - 페이지 이동할때마다 새로운 html 파일을 불러오는 방식때문에 사용자는 화면이 깜빡거린다고 느낄 수 있습니다.
 
----
 
 #TOP2
 
@@ -60,7 +59,6 @@ tags:
 
 + 직관적이고 깔끔한 UX 컴포넌트 지원합니다.
 
----
 
 # TOP3
 
@@ -84,7 +82,6 @@ tags:
 
 - Ant Design 과 비교하여 비교적 학습 시간이 걸립니다.
 
----
 
 # Top4.
 
@@ -114,7 +111,6 @@ tags:
 
 - reference 가 mui, ant design 에 비하여 상대적으로 적습니다.
 
----
 
 # Top5
 ## React-use
@@ -125,7 +121,6 @@ Collection of essential React Hooks
 
 [https://streamich.github.io/react-use/?path=/story/components-usekey--demo](https://streamich.github.io/react-use/?path=/story/components-usekey--demo)
 
----
 
 # Top6
 # Chakra UI
@@ -153,7 +148,6 @@ Collection of essential React Hooks
 
 - reference 가 mui, ant design 에 비하여 상대적으로 적습니다.
 
----
 
 # Top7
 ## Headerless UI
@@ -164,8 +158,7 @@ Tailwind CSS와 아름답게 통합되도록 설계된 완전히 스타일이 �
 Tainlwind css로 구현된 UI Component 모음입니다. 몇가지의 UI 컴포넌트를 지원합니다.
 
 
----
-# Top9
+# Top8
 ## React Hook Form
 
 ![img8]({{site.url}}/assets/images/csb/javascript_risingStart/rising_1_12.png)
@@ -184,9 +177,8 @@ Tainlwind css로 구현된 UI Component 모음입니다. 몇가지의 UI 컴포�
 
 + validation, error 를 처리해줍니다.
 
----
 
-# Top10
+# Top9
 ## React Query
 
 ![img9]({{site.url}}/assets/images/csb/javascript_risingStart/rising_1_10.png)
