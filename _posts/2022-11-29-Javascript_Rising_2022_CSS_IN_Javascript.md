@@ -11,6 +11,8 @@ tags:
 - javascript
 - css in javascript
 
+---
+
 안녕하세요. 2022년 JavaScript RisingStar 2022를 정리하기 전에 먼저 작년의  JavaScript RisingStart 2021을 먼저 소개하겠습니다.
 
 이 포스트에서는 CSS in Javascript의 top6 에 대해서 순위순으로 리서치 하였습니다.
