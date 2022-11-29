@@ -23,8 +23,9 @@ React Query는 정말 좋은 상태 관리 라이브러리입니다.
 관련 커뮤니티의 규모와 자료들은 아직 부족한 편입니다.
 
 기본적으로 사용법이 쉬운편이라  문제 될 정도는 아니지만, **TypeScript**와 함께하면 얘기가 좀 달라집니다.  
-모호한데다가 자료까지 부족하거든요.  with TypeScript는 언제나 공부가 좀 필요합니다.  
-실무에서 사용하면서 애매했던 점이나 좋은 사용법을 정리해봤습니다.
+모호한데다가 자료까지 부족하거든요.  with TypeScript는 언제나 공부가 필요한것 같습니다.
+ 
+실무에서 사용하면서 애매했던 점을 정리해봤습니다.
 
 ## 1. useQuery
 
@@ -315,14 +316,14 @@ export function useMutaion<
     const { mutate } = 
     useMutation<AxiosResponse, AxiosError, bodyType, callbackType>(
     ...
-    	{   //options
+   
+       {   //options   
+           onMutate: bodyData => something(bodyData),   //callbackType
     
-    			onMutate: bodyData => something(bodyData),   //callbackType
-    
-    			onSuccess: (res, bodyData, callbackType) => {},
-    		  onError: (err, bodyData, callbackType) => {},
-    		  onSettled: (res, err, bodyData, callbackType) => {},
-    	},
+           onSuccess: (res, bodyData, callbackType) => {},
+           onError: (err, bodyData, callbackType) => {},
+           onSettled: (res, err, bodyData, callbackType) => {},
+       },
     );
     ```
     
